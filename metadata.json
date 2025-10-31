@@ -1,0 +1,6 @@
+{
+  "name": "Digital Narrative Alchemist",
+  "description": "A powerful, intuitive tool for TTRPG Game Masters to generate unique, structured game content by decoding a \"DNA\" string using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
